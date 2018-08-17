@@ -8,7 +8,7 @@
   - 星型架构与OLAP多维数据集					8
   - 测量事实表												10
   - 描述性上下文的维度表							13
-  - 事实和维度加入星型模式							16
+  - 加入星型模式后的事实和维度							16
 Kimball的DW / BI架构。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 0.18
 运营源系统。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 0.18
 提取，转换和加载系统。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 0.19
@@ -30,6 +30,6 @@ Hybrid Hub-and-Spoke和Kimball架构。 。 。 。 。 。 。 。 。 。 。 
 摘要。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 0.35
 原子
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODM4MDI2MDcsMzA2MDg0Njc3LDQxNj
-A2Mjg2NF19
+eyJoaXN0b3J5IjpbMTgwNTg4NjY5MywzMDYwODQ2NzcsNDE2MD
+YyODY0XX0=
 -->
