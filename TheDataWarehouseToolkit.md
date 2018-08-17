@@ -12,8 +12,8 @@
 - Kimball的DW/BI架构									18
   - 运营源系统												18
   - 提取，转换和加载系统							19
-  - 展示区域以支持商业智能。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 0.21
-商业智能应用。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 0.22
+  - 展示区域以支持商业智能							21
+  - 商业智能应用											22
 Kimball建筑的餐厅隐喻。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 0.23
 替代DW / BI架构。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 0.26
 独立数据集市架构。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 0.26
@@ -30,6 +30,6 @@ Hybrid Hub-and-Spoke和Kimball架构。 。 。 。 。 。 。 。 。 。 。 
 摘要。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 0.35
 原子
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjczNTkwNTA3LDE4MDU4ODY2OTMsMzA2MD
-g0Njc3LDQxNjA2Mjg2NF19
+eyJoaXN0b3J5IjpbLTIwMDAxOTU3OCwxODA1ODg2NjkzLDMwNj
+A4NDY3Nyw0MTYwNjI4NjRdfQ==
 -->
