@@ -1,4 +1,5 @@
 
+# The Definitive Guide to Dimensional Modeling
 
  1. **数据仓库，商业智能和维度建模入门**	1
 - 不同的数据捕获和数据分析世界				2
@@ -29,6 +30,6 @@
 - 敏捷考虑因素												34
 - 摘要																35
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTQwNjc2MDQsMTgwNTg4NjY5MywzMD
-YwODQ2NzcsNDE2MDYyODY0XX0=
+eyJoaXN0b3J5IjpbNzEzNzgzNzE0LDE4MDU4ODY2OTMsMzA2MD
+g0Njc3LDQxNjA2Mjg2NF19
 -->
