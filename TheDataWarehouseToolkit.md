@@ -3,7 +3,7 @@
 ## The Definitive Guide to Dimensional Modeling（维度建模的权威指南）
 
  1. **数据仓库，商业智能和维度建模入门**	1
-- 数据捕获和数据分析世界				2
+- 数据捕获和数据分析不同的世界				2
 - 数据仓库和商业智能的目标						3
   - 为DW/BI管理者发布隐喻(metaphor)		5
 - 维度建模简介												7
@@ -32,6 +32,6 @@
 - 摘要																35
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMTgwNDY4NSwyMDQxODg0MTkyLDE4MD
-U4ODY2OTMsMzA2MDg0Njc3LDQxNjA2Mjg2NF19
+eyJoaXN0b3J5IjpbLTY3OTI1MTYyLDIwNDE4ODQxOTIsMTgwNT
+g4NjY5MywzMDYwODQ2NzcsNDE2MDYyODY0XX0=
 -->
