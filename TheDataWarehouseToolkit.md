@@ -17,10 +17,10 @@
   - Kimball建筑的餐厅隐喻							23
 - 替代DW/BI架构											26
   - 独立数据集市架构									26
-  - Hub-and-Spoke公司信息工厂Inmonjia	28
-  - Hybrid Hub-and-Spoke和Kimball架构	29
-维度建模神话。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 0.30
-误区1：维度模型仅适用于摘要数据。 。 。 。 。 。 。 。 。 0.30
+  - Hub-and-Spoke公司信息工厂Inmon架构	28
+  - Hybrid Hub-and-Spoke和Kimball架构		29
+- 维度建模误区												30
+  - 误区1：维度模型仅适用于摘要数据。 。 。 。 。 。 。 。 。 0.30
 误区2：维度模型是部门，而不是企业。 。 。 。 0.31
 误区3：维度模型不可扩展。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 0.31
 误区4：维度模型仅用于可预测的用法。 。 。 。 。 。 。 0.31
@@ -30,6 +30,6 @@
 摘要。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 0.35
 原子
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzMyNjk4MzgsMTgwNTg4NjY5MywzMD
-YwODQ2NzcsNDE2MDYyODY0XX0=
+eyJoaXN0b3J5IjpbLTk3MTk3Njc1NiwxODA1ODg2NjkzLDMwNj
+A4NDY3Nyw0MTYwNjI4NjRdfQ==
 -->
