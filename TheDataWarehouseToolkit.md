@@ -1,6 +1,6 @@
 
 
- 1. 数据仓库，商业智能和维度建模入门	1
+ 1. **数据仓库，商业智能和维度建模入门**	1
 - 不同的数据捕获和数据分析世界				2
 - 数据仓库和商业智能的目标						3
   - 为DW/BI管理者发布隐喻(metaphor)		5
@@ -29,6 +29,6 @@
 - 敏捷考虑因素												34
 - 摘要																35
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjU2NTkyMjAsMTgwNTg4NjY5MywzMD
+eyJoaXN0b3J5IjpbLTEwNTQwNjc2MDQsMTgwNTg4NjY5MywzMD
 YwODQ2NzcsNDE2MDYyODY0XX0=
 -->
