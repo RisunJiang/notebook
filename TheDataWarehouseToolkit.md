@@ -6,7 +6,7 @@
   - 为DW/BI管理者发布隐喻(metaphor)		5
 - 维度建模简介												7
   - 星型架构与OLAP多维数据集					8
-测量事实表。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 0.10
+  - 测量事实表												10
 描述性上下文的维度表。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 0.13
 事实和维度加入星型模式。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 0.16
 Kimball的DW / BI架构。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 0.18
@@ -30,5 +30,5 @@ Hybrid Hub-and-Spoke和Kimball架构。 。 。 。 。 。 。 。 。 。 。 
 摘要。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 0.35
 原子
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMzk1MjYxNCw0MTYwNjI4NjRdfQ==
+eyJoaXN0b3J5IjpbMzA2MDg0Njc3LDQxNjA2Mjg2NF19
 -->
