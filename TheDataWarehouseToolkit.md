@@ -3,7 +3,7 @@
  1. 数据仓库，商业智能和维度建模入门	1
 - 不同的数据捕获和数据分析世界				2
 - 数据仓库和商业智能的目标						3
-- 为DW / BI经理发布隐喻							5
+- 为DW/BI经理发布隐喻(metaphor)							5
 - 维度建模简介												7
 - 星型架构与OLAP多维数据集					8
 测量事实表。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 0.10
@@ -30,5 +30,5 @@ Hybrid Hub-and-Spoke和Kimball架构。 。 。 。 。 。 。 。 。 。 。 
 摘要。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 0.35
 原子
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE2MDYyODY0XX0=
+eyJoaXN0b3J5IjpbLTQ0NDEwNTE2OSw0MTYwNjI4NjRdfQ==
 -->
