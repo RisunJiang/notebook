@@ -25,11 +25,10 @@
   - 误区3：维度模型不可扩展						31
   - 误区4：维度模型仅用于可预测的用法	31
   - 误区5：维度模型无法整合						32
-- 更多考虑维度的原因		32
-敏捷考虑因素。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 0.34
-摘要。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 。 0.35
-原子
+- 考虑维度的更多原因									32
+- 敏捷考虑因素												34
+- 摘要																35
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNDE4MTAxOSwxODA1ODg2NjkzLDMwNj
-A4NDY3Nyw0MTYwNjI4NjRdfQ==
+eyJoaXN0b3J5IjpbLTEyNjU2NTkyMjAsMTgwNTg4NjY5MywzMD
+YwODQ2NzcsNDE2MDYyODY0XX0=
 -->
