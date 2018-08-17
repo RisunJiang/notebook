@@ -1,6 +1,6 @@
 
 # The Data Warehouse Toolkit（数据仓库工具箱）
-**--The Definitive Guide to Dimensional Modeling（维度建模的权威指南）**
+## The Definitive Guide to Dimensional Modeling（维度建模的权威指南）##
  1. **数据仓库，商业智能和维度建模入门**	1
 - 不同的数据捕获和数据分析世界				2
 - 数据仓库和商业智能的目标						3
@@ -30,6 +30,6 @@
 - 敏捷考虑因素												34
 - 摘要																35
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NjAyNTQxNCwyMDQxODg0MTkyLDE4MD
-U4ODY2OTMsMzA2MDg0Njc3LDQxNjA2Mjg2NF19
+eyJoaXN0b3J5IjpbLTE1NTA5MTcyODgsMjA0MTg4NDE5MiwxOD
+A1ODg2NjkzLDMwNjA4NDY3Nyw0MTYwNjI4NjRdfQ==
 -->
