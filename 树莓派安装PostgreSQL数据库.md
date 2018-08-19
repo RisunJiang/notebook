@@ -80,12 +80,12 @@ creating a postgres user
 
 				a postgres query
 
-1. >test=> select  name  from people where company = 'Red Hat'; 
-
-3.   name | company 
-
-5.  ---------------+--------- 
-
+1. >test=> **select  name  from** people **where** company = 'Red Hat'; 
+2. >
+3. > name | company 
+4. >
+5. >---------------+--------- 
+6
 7.   Rikki Endsley | Red Hat 
 
 9.  (1 row) 
@@ -240,5 +240,6 @@ Python
 
 （题图：树莓派基金会）
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NTkyNjk3NCwtMTk0MzA0MzY3MV19
+eyJoaXN0b3J5IjpbLTEyNDk1NDk0NjQsLTE5NDMwNDM2NzFdfQ
+==
 -->
