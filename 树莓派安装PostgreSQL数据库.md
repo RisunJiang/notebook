@@ -20,9 +20,9 @@
 
 一开始，你将需要去安装 Postgres 和一些其它的包。打开一个终端窗口并连接到因特网，然后运行以下命令：
 
-> 1. sudo apt install postgresql libpq-dev postgresql-client 
->2. 
->3. postgresql-client-common -y 
+1. >sudo apt install postgresql libpq-dev postgresql-client 
+2.   
+3. >postgresql-client-common -y 
 
 [![installing postgres](http://s1.51cto.com/oss/201711/22/9a0fade6fc8f33093d7db26169ea1513.png-wh_600x-s_2292993688.png "installing postgres")](http://s1.51cto.com/oss/201711/22/9a0fade6fc8f33093d7db26169ea1513.png-wh_600x-s_2292993688.png)
 
@@ -50,7 +50,7 @@ creating a postgres user
 
 按下 Ctrl+D 两次从 psql shell 和 postgres 用户中退出，再次以 pi 用户登入。你创建了一个名为 pi 的 Postgres 用户后，你可以从这里无需登录凭据即可访问 Postgres shell：
 
-1.  $ psql test 
+1.  >$ psql test 
 
 你现在已经连接到 "test" 数据库。这个数据库当前是空的，不包含任何表。你可以在 psql shell 里创建一个简单的表：
 
@@ -240,6 +240,5 @@ Python
 
 （题图：树莓派基金会）
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTg2ODk2NDQsLTE5NDMwNDM2NzFdfQ
-==
+eyJoaXN0b3J5IjpbMjA2MzgzMDAzNCwtMTk0MzA0MzY3MV19
 -->
