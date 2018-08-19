@@ -2,8 +2,8 @@
 
 ## (1) 用户实用程序：
 
-createdb 创建一个新的PostgreSQL的数据库（和SQL语句：CREATE DATABASE 相同）  
-createuser 创建一个新的PostgreSQL的用户（和SQL语句：CREATE USER 相同）  
+**createdb** 创建一个新的PostgreSQL的数据库（和SQL语句：CREATE DATABASE 相同）  
+**createuser 创建一个新的PostgreSQL的用户（和SQL语句：CREATE USER 相同）  
 dropdb 删除数据库  
 dropuser 删除用户  
 pg_dump 将PostgreSQL数据库导出到一个脚本文件  
@@ -53,7 +53,7 @@ template1=# \di 查看索引
 删除表中某行数据： delete from [表名] where [该行特征];  
 delete from [表名];--删空整个表 ========================== ==========================
 
-## (4).PostgreSQL用户认证
+## (4) PostgreSQL用户认证
 
 PostgreSQL数据目录中的pg_hba.conf的作用就是用户认证，可以在/usr/local/pgsql/data中找到。  
 有以下几个例子可以看看：  
@@ -64,7 +64,7 @@ local all all trust(无条件进行连接)
 TYPE DATABASE USER IP-ADDRESS IP-MASK METHOD  
 host sales all 192.168.1.0 255.255.255.0 ident sameuser(表明任何操作系统用户都能够以同名数据库用户进行连接)
 
-## (5).看了那么多，来一个完整的创建PostgreSQL数据库用户的示例吧
+## (5) 看了那么多，来一个完整的创建PostgreSQL数据库用户的示例吧
 
 (1)进入PostgreSQL高级用户  
 (2)启用客户端程序，并进入template1数据库  
@@ -80,7 +80,7 @@ psql -U hellen -d template1
 PS：在一个数据库中如果要切换用户，要使用如下命令：  
 template1=# \!psql -U tk -d template1
 
-## (6).设定用户特定的权限
+## (6) 设定用户特定的权限
 
 还是要用例子来说明：  
 创建一个用户组：  
@@ -92,7 +92,7 @@ sales=# GRANT SELECT ON employee,products TO GROUP sale;
 在sale中将用户user2删除  
 sales=# ALTER GROUP sale DROP USER sale2;
 
-## (7).备份数据库
+## (7) 备份数据库
 
 可以使用pg_dump和pg_dumpall来完成。比如备份sales数据库：
 
@@ -100,5 +100,5 @@ pg_dump sales>/home/tk/pgsql/backup/1.bak
 
 分类:  [PostgreSql](https://www.cnblogs.com/tzp_8/category/408009.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MzE1MTk5MCw5NTcwNzQxMzldfQ==
+eyJoaXN0b3J5IjpbLTEzMzQ4MDYwNjIsOTU3MDc0MTM5XX0=
 -->
