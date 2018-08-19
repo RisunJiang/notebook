@@ -2,9 +2,9 @@
 
 ## (1) 用户实用程序：
 
-**createdb** 创建一个新的PostgreSQL的数据库（和SQL语句：CREATE DATABASE 相同）  
-**createuser 创建一个新的PostgreSQL的用户（和SQL语句：CREATE USER 相同）  
-dropdb 删除数据库  
+- **createdb** 创建一个新的PostgreSQL的数据库（和SQL语句：CREATE DATABASE 相同）  
+- **createuser** 创建一个新的PostgreSQL的用户（和SQL语句：CREATE USER 相同）  
+- dropdb 删除数据库  
 dropuser 删除用户  
 pg_dump 将PostgreSQL数据库导出到一个脚本文件  
 pg_dumpall 将所有的PostgreSQL数据库导出到一个脚本文件  
@@ -100,5 +100,5 @@ pg_dump sales>/home/tk/pgsql/backup/1.bak
 
 分类:  [PostgreSql](https://www.cnblogs.com/tzp_8/category/408009.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzQ4MDYwNjIsOTU3MDc0MTM5XX0=
+eyJoaXN0b3J5IjpbLTExNDQ0NDUzMDcsOTU3MDc0MTM5XX0=
 -->
