@@ -17,9 +17,10 @@
 1. **pg_ctl** 启动、停止、重启PostgreSQL服务（比如：pg_ctl start 启动PostgreSQL服务，它和service postgresql start相同）  
 2. **pg_controldata** 显示PostgreSQL服务的内部控制信息  
 3. **psql** 切换到PostgreSQL预定义的数据库超级用户postgres，启用客户端程序psql，并连接到自己想要的数据库，比如说：  
-> psql template1  
->出现以下界面，说明已经进入到想要的数据库，可以进行想要的操作了。  
-template1=#
+	> psql template1 
+
+	出现以下界面，说明已经进入到想要的数据库，可以进行想要的操作了。  
+	>template1=#
 
 ## (3) 在数据库中的一些命令：
 
@@ -100,5 +101,5 @@ pg_dump sales>/home/tk/pgsql/backup/1.bak
 
 分类:  [PostgreSql](https://www.cnblogs.com/tzp_8/category/408009.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTE2OTczNDksOTU3MDc0MTM5XX0=
+eyJoaXN0b3J5IjpbLTExODYwMDcxMjEsOTU3MDc0MTM5XX0=
 -->
