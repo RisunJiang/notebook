@@ -4,8 +4,6 @@
 
 作者：Ben Nuttall来源：[Linux中国](https://linux.cn/article-9056-1.html)|_2017-11-23 08:30_
 
-## [技术沙龙 | 邀您于8月25日与国美/AWS/转转三位专家共同探讨小程序电商实战](http://mdsa.51cto.com/act/Tech/Tech22)
-
 [![怎么在一台树莓派上安装Postgres数据库](http://s3.51cto.com/oss/201711/22/4cabfb132e5d927f0baa737b3b725a9d.png-wh_651x-s_2204032566.png "怎么在一台树莓派上安装Postgres数据库")](http://s3.51cto.com/oss/201711/22/4cabfb132e5d927f0baa737b3b725a9d.png-wh_651x-s_2204032566.png)
 
 在你的下一个树莓派项目上安装和配置流行的开源数据库 Postgres 并去使用它。
@@ -242,6 +240,5 @@ Python
 
 （题图：树莓派基金会）
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDE1MjUzMzcsLTE5NDMwNDM2NzFdfQ
-==
+eyJoaXN0b3J5IjpbODcxNjc5NzI0LC0xOTQzMDQzNjcxXX0=
 -->
