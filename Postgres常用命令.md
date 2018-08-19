@@ -40,6 +40,7 @@
 *查看某个表的状况： \d [表名]  
 *重命名一个表： alter table [表名A] rename to [表名B];  
 *删除一个表： drop table [表名]; 
+
 ### [表内基本操作]
 
 *在已有的表里添加字段： alter table [表名] add column [字段名] [类型];  
@@ -50,8 +51,7 @@
 在表中插入数据： insert into 表名 ([字段名m],[字段名n],......) values ([列m的值],[列n的值],......);  
 修改表中的某行某列的数据： update [表名] set [目标字段名]=[目标值] where [该行特征];  
 删除表中某行数据： delete from [表名] where [该行特征];  
-delete from [表名];--删空整个表 ========================== ==========================
-
+delete from [表名];--删空整个表 
 ## (4) PostgreSQL用户认证
 
 PostgreSQL数据目录中的pg_hba.conf的作用就是用户认证，可以在/usr/local/pgsql/data中找到。  
@@ -99,6 +99,6 @@ pg_dump sales>/home/tk/pgsql/backup/1.bak
 
 分类:  [PostgreSql](https://www.cnblogs.com/tzp_8/category/408009.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU2MTI5NDc3LC0xNzA3OTA4MDA3LC0zNz
-gzOTkwNDMsLTExODYwMDcxMjEsOTU3MDc0MTM5XX0=
+eyJoaXN0b3J5IjpbLTE2MTgxODM3NjUsLTE3MDc5MDgwMDcsLT
+M3ODM5OTA0MywtMTE4NjAwNzEyMSw5NTcwNzQxMzldfQ==
 -->
