@@ -54,11 +54,11 @@ creating a postgres user
 
 你现在已经连接到 "test" 数据库。这个数据库当前是空的，不包含任何表。你可以在 psql shell 里创建一个简单的表：
 
-1.  test=> create  table people (name text, company text); 
+1. >test=> **create  table** people (name text, company text); 
 
 现在你可插入数据到表中：
 
-1.  test=> insert  into people values ('Ben Nuttall', 'Raspberry Pi Foundation'); 
+1.  >test=> insert  into people values ('Ben Nuttall', 'Raspberry Pi Foundation'); 
 
 3.  test=> insert  into people values ('Rikki Endsley', 'Red Hat'); 
 
@@ -240,5 +240,5 @@ Python
 
 （题图：树莓派基金会）
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4ODgwNjA3MCwtMTk0MzA0MzY3MV19
+eyJoaXN0b3J5IjpbLTk1NTU3MjQ0OCwtMTk0MzA0MzY3MV19
 -->
