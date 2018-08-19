@@ -32,12 +32,10 @@
 - template1=# **\di** 查看索引
 
 ### [基本数据库操作]
-========================
-
-1. *创建数据库： create database [数据库名];  
-2. *查看数据库列表： \d  
-3. *删除数据库： . drop database [数据库名];  
-创建表： create table ([字段名1] [类型1] <references 关联表名(关联的字段名)>;,[字段名2] [类型2],......<,primary key (字段名m,字段名n,...)>;);  
+1. 创建数据库： create database [数据库名];  
+2. 查看数据库列表： \d  
+3. 删除数据库： . drop database [数据库名];  
+4. 创建表： create table ([字段名1] [类型1] <references 关联表名(关联的字段名)>;,[字段名2] [类型2],......<,primary key (字段名m,字段名n,...)>;);  
 *查看表名列表： \d  
 *查看某个表的状况： \d [表名]  
 *重命名一个表： alter table [表名A] rename to [表名B];  
@@ -102,6 +100,6 @@ pg_dump sales>/home/tk/pgsql/backup/1.bak
 
 分类:  [PostgreSql](https://www.cnblogs.com/tzp_8/category/408009.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzY0NzI2MzMsLTE3MDc5MDgwMDcsLT
+eyJoaXN0b3J5IjpbLTIwOTc2MTE3NTcsLTE3MDc5MDgwMDcsLT
 M3ODM5OTA0MywtMTE4NjAwNzEyMSw5NTcwNzQxMzldfQ==
 -->
