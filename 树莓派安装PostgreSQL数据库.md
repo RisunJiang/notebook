@@ -46,7 +46,7 @@ creating a postgres user
 
 > 1.  $ psql 
 
-> 3.   > create  database test; 
+> 3.  > create  database test; 
 
 按下 Ctrl+D 两次从 psql shell 和 postgres 用户中退出，再次以 pi 用户登入。你创建了一个名为 pi 的 Postgres 用户后，你可以从这里无需登录凭据即可访问 Postgres shell：
 
@@ -240,6 +240,5 @@ Python
 
 （题图：树莓派基金会）
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDQ3NjgyMzYsLTE5NDMwNDM2NzFdfQ
-==
+eyJoaXN0b3J5IjpbMTU2NDY3MTI4MCwtMTk0MzA0MzY3MV19
 -->
