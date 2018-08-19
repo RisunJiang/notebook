@@ -24,7 +24,7 @@
 
 ## (3) 在数据库中的一些命令：
 
-template1=# \l 查看系统中现存的数据库  
+>template1=# **\l** 查看系统中现存的数据库  
 template1=# \q 退出客户端程序psql  
 template1=# \c 从一个数据库中转到另一个数据库中，如template1=# \c sales 从template1转到sales  
 template1=# \dt 查看表  
@@ -101,5 +101,6 @@ pg_dump sales>/home/tk/pgsql/backup/1.bak
 
 分类:  [PostgreSql](https://www.cnblogs.com/tzp_8/category/408009.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODYwMDcxMjEsOTU3MDc0MTM5XX0=
+eyJoaXN0b3J5IjpbLTM3ODM5OTA0MywtMTE4NjAwNzEyMSw5NT
+cwNzQxMzldfQ==
 -->
