@@ -1,6 +1,6 @@
 # [postgresql 常用命令](https://www.cnblogs.com/tzp_8/archive/2012/11/08/2760746.html)
 
-## （1）用户实用程序：
+## (1) 用户实用程序：
 
 createdb 创建一个新的PostgreSQL的数据库（和SQL语句：CREATE DATABASE 相同）  
 createuser 创建一个新的PostgreSQL的用户（和SQL语句：CREATE USER 相同）  
@@ -12,7 +12,7 @@ pg_restore 从一个由pg_dump或pg_dumpall程序导出的脚本文件中恢复P
 psql 一个基于命令行的PostgreSQL交互式客户端程序  
 vacuumdb 清理和分析一个PostgreSQL数据库，它是客户端程序psql环境下SQL语句VACUUM的shell脚本封装，二者功能完全相同
 
-## （2）系统实用程序
+## (2) 系统实用程序
 
 1. pg_ctl 启动、停止、重启PostgreSQL服务（比如：pg_ctl start 启动PostgreSQL服务，它和service postgresql start相同）  
 2. pg_controldata 显示PostgreSQL服务的内部控制信息  
@@ -21,7 +21,7 @@ psql template1
 出现以下界面，说明已经进入到想要的数据库，可以进行想要的操作了。  
 template1=#
 
-## (3).在数据库中的一些命令：
+## (3) 在数据库中的一些命令：
 
 template1=# \l 查看系统中现存的数据库  
 template1=# \q 退出客户端程序psql  
@@ -100,5 +100,5 @@ pg_dump sales>/home/tk/pgsql/backup/1.bak
 
 分类:  [PostgreSql](https://www.cnblogs.com/tzp_8/category/408009.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDkwODU2NDQsOTU3MDc0MTM5XX0=
+eyJoaXN0b3J5IjpbMTk0MzE1MTk5MCw5NTcwNzQxMzldfQ==
 -->
