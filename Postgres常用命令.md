@@ -31,7 +31,8 @@
 - template1=# **\d**  查看表结构  
 - template1=# **\di** 查看索引
 
-### [基本数据库操作]========================
+### [基本数据库操作]
+========================
 
 1. *创建数据库： create database [数据库名];  
 2. *查看数据库列表： \d  
@@ -101,6 +102,6 @@ pg_dump sales>/home/tk/pgsql/backup/1.bak
 
 分类:  [PostgreSql](https://www.cnblogs.com/tzp_8/category/408009.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDc5MDgwMDcsLTM3ODM5OTA0MywtMT
-E4NjAwNzEyMSw5NTcwNzQxMzldfQ==
+eyJoaXN0b3J5IjpbLTIxMzY0NzI2MzMsLTE3MDc5MDgwMDcsLT
+M3ODM5OTA0MywtMTE4NjAwNzEyMSw5NTcwNzQxMzldfQ==
 -->
