@@ -85,10 +85,10 @@ creating a postgres user
 3. > name | company 
 4. >
 5. >---------------+--------- 
-6
-7.   Rikki Endsley | Red Hat 
-
-9.  (1 row) 
+6. >
+7. >Rikki Endsley | Red Hat 
+8. >
+9. >(1 row) 
 
 **pgAdmin**
 
@@ -98,7 +98,7 @@ creating a postgres user
 
 如果你想去访问树莓派，你可以用 apt 去安装它：
 
-1.  sudo apt install pgadmin3 
+1. >sudo apt install pgadmin3 
 
 它是和基于 Debian 的系统如 Ubuntu 是完全相同的；如果你在其它发行版上安装，尝试与你的系统相关的等价的命令。 或者，如果你在 Windows 或 macOS 上，尝试从 pgAdmin.org 上下载 pgAdmin。注意，在 apt 上的可用版本是 pgAdmin3，而最新的版本 pgAdmin4，在其网站上可以找到。
 
@@ -240,6 +240,5 @@ Python
 
 （题图：树莓派基金会）
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDk1NDk0NjQsLTE5NDMwNDM2NzFdfQ
-==
+eyJoaXN0b3J5IjpbNzY2MTA2NzE2LC0xOTQzMDQzNjcxXX0=
 -->
