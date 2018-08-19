@@ -20,7 +20,7 @@
 
 一开始，你将需要去安装 Postgres 和一些其它的包。打开一个终端窗口并连接到因特网，然后运行以下命令：
 
-1.  sudo apt install postgresql libpq-dev postgresql-client 
+> sudo apt install postgresql libpq-dev postgresql-client 
 
 3.  postgresql-client-common -y 
 
@@ -240,5 +240,5 @@ Python
 
 （题图：树莓派基金会）
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcxNjc5NzI0LC0xOTQzMDQzNjcxXX0=
+eyJoaXN0b3J5IjpbLTMwOTQxMjQxLC0xOTQzMDQzNjcxXX0=
 -->
