@@ -16,5 +16,5 @@
 - [Ubuntu 中apt update和upgrade 的区别](https://blog.csdn.net/CSDN_duomaomao/article/details/77802673)
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Njc2MTI5MTVdfQ==
+eyJoaXN0b3J5IjpbLTE4NzkzMDAyMSwtMTk2NzYxMjkxNV19
 -->
