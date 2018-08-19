@@ -30,11 +30,11 @@ installing postgres
 
 当安装完成后，切换到 Postgres 用户去配置数据库：
 
-> 1.  sudo su postgres 
+1. >sudo su postgres 
 
 现在，你可以创建一个数据库用户。如果你创建了一个与你的 Unix 用户帐户相同名字的用户，那个用户将被自动授权访问该数据库。因此在本教程中，为简单起见，我们将假设你使用了默认用户 pi 。运行 createuser 命令以继续：
 
-> 1.  createuser pi -P --interactive 
+1. >createuser pi -P --interactive 
 
 当得到提示时，输入一个密码 （并记住它）， 选择 n 使它成为一个非超级用户（LCTT 译注：此处原文有误），接下来两个问题选择 y（LCTT 译注：分别允许创建数据库和其它用户）。
 
@@ -240,5 +240,5 @@ Python
 
 （题图：树莓派基金会）
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MzYyMjQxMCwtMTk0MzA0MzY3MV19
+eyJoaXN0b3J5IjpbMTQ4ODgwNjA3MCwtMTk0MzA0MzY3MV19
 -->
