@@ -78,9 +78,9 @@ creating a postgres user
 
 [![a postgres query](http://s5.51cto.com/oss/201711/22/0791468dd687b5bbe56dceda2c32b9ca.png-wh_600x-s_3589010324.png "a postgres query")](http://s5.51cto.com/oss/201711/22/0791468dd687b5bbe56dceda2c32b9ca.png-wh_600x-s_3589010324.png)
 
-a postgres query
+				a postgres query
 
-1.  test=> select  name  from people where company = 'Red Hat'; 
+1. >test=> select  name  from people where company = 'Red Hat'; 
 
 3.   name | company 
 
@@ -240,6 +240,5 @@ Python
 
 （题图：树莓派基金会）
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTgyMTc1MzYsLTE5NDMwNDM2NzFdfQ
-==
+eyJoaXN0b3J5IjpbMTU5NTkyNjk3NCwtMTk0MzA0MzY3MV19
 -->
