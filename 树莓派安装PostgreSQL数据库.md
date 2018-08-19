@@ -64,17 +64,17 @@ creating a postgres user
 
 然后尝试进行查询：
 
-1. >test=> select * from people; 
+1. >test=> **select * from** people; 
 
-3.   name |         company 
+3.  >name |         company 
 
-5.  ---------------+------------------------- 
+5.  >---------------+------------------------- 
 
-7.   Ben Nuttall   | Raspberry Pi Foundation 
+7.  >Ben Nuttall   | Raspberry Pi Foundation 
 
-9.   Rikki Endsley | Red Hat 
+9.  >Rikki Endsley | Red Hat 
 
-11.  (2 rows) 
+11. >(2 rows) 
 
 [![a postgres query](http://s5.51cto.com/oss/201711/22/0791468dd687b5bbe56dceda2c32b9ca.png-wh_600x-s_3589010324.png "a postgres query")](http://s5.51cto.com/oss/201711/22/0791468dd687b5bbe56dceda2c32b9ca.png-wh_600x-s_3589010324.png)
 
@@ -240,5 +240,6 @@ Python
 
 （题图：树莓派基金会）
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMDQ4MDE2NCwtMTk0MzA0MzY3MV19
+eyJoaXN0b3J5IjpbLTE3NTgyMTc1MzYsLTE5NDMwNDM2NzFdfQ
+==
 -->
