@@ -243,5 +243,5 @@ SQLite自称是世界上部署最广泛的数据库，于2000年开始运营，�
 ---------
 ## 原文: [The Top 7 Free and Open Source Database Software Solutions](https://blog.capterra.com/free-database-software/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMxMDA2NDgyXX0=
+eyJoaXN0b3J5IjpbLTMxMzE3NDE4Miw1MzEwMDY0ODJdfQ==
 -->
