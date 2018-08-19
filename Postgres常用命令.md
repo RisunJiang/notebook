@@ -26,10 +26,10 @@
 
 - template1=# **\l** 查看系统中现存的数据库  
 - template1=# **\q** 退出客户端程序psql  
-- template1=# **\c** 从一个数据库中转到另一个数据库中，如template1=# \c sales 从template1转到sales  
+- template1=# **\c** 从一个数据库中转到另一个数据库中，如template1=# **\c sales** 从template1转到sales  
 - template1=# **\dt** 查看表  
 - template1=# **\d**  查看表结构  
-- template1=# **\di**                                                                                                                                                                                                                                                                                                       查看索引
+- template1=# **\di** 查看索引
 
 ### [基本数据库操作]========================
 
@@ -101,6 +101,6 @@ pg_dump sales>/home/tk/pgsql/backup/1.bak
 
 分类:  [PostgreSql](https://www.cnblogs.com/tzp_8/category/408009.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjU4Nzc2NzEsLTM3ODM5OTA0MywtMT
+eyJoaXN0b3J5IjpbLTE3MDc5MDgwMDcsLTM3ODM5OTA0MywtMT
 E4NjAwNzEyMSw5NTcwNzQxMzldfQ==
 -->
