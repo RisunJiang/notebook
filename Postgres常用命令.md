@@ -99,6 +99,7 @@ pg_dump sales>/home/tk/pgsql/backup/1.bak
 
 分类:  [PostgreSql](https://www.cnblogs.com/tzp_8/category/408009.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTgxODM3NjUsLTE3MDc5MDgwMDcsLT
-M3ODM5OTA0MywtMTE4NjAwNzEyMSw5NTcwNzQxMzldfQ==
+eyJoaXN0b3J5IjpbLTEwMzczNTgxNDIsLTE2MTgxODM3NjUsLT
+E3MDc5MDgwMDcsLTM3ODM5OTA0MywtMTE4NjAwNzEyMSw5NTcw
+NzQxMzldfQ==
 -->
