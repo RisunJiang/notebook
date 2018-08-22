@@ -68,6 +68,9 @@
 更多操作在vim Normal模式下输入  `:help cursor-motions`
 
 ![](https://upload-images.jianshu.io/upload_images/1464813-64f174231649a882)
+
+* 原文参考: [Vim命令合集](https://www.jianshu.com/p/117253829581)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDg0OTk0ODksMTQ3MzAwNTAxNV19
+eyJoaXN0b3J5IjpbMTM1NDE0ODYzMywtMTIwODQ5OTQ4OSwxND
+czMDA1MDE1XX0=
 -->
