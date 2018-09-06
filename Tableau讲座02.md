@@ -7,8 +7,9 @@
 - 管控框架：数据管控+内容管控
 - 两部分需要精细的管控
 - 站点site -- tableau的权限管控方式
+- 角色：server管理员，站点管理员
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MjI3NzkyMiwxMzU4NjE2NzkzXX0=
+eyJoaXN0b3J5IjpbLTE5MTc1NzE2NDgsMTM1ODYxNjc5M119
 -->
