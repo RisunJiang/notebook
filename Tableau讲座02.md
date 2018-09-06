@@ -20,7 +20,8 @@
 - 颜色，不要太突兀
 - 不要太多sheet
 - **现代分析工作流--重点是调动起参与和互动**
-- 定期下线
+- 定期下线不用的报表
+- 
 - 
 - 
 - 
@@ -28,7 +29,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE5NTA5OTMzLDE0NDgwNDY4MjIsMzUyND
-QxNzcwLC00ODUyNDU1OTAsODcwMDE1NTA1LC0yMDU3NDU2NDQ3
-LDEzNTg2MTY3OTNdfQ==
+eyJoaXN0b3J5IjpbLTEzNjkzNjQ5NTgsMTQ0ODA0NjgyMiwzNT
+I0NDE3NzAsLTQ4NTI0NTU5MCw4NzAwMTU1MDUsLTIwNTc0NTY0
+NDcsMTM1ODYxNjc5M119
 -->
