@@ -19,6 +19,8 @@
 - 先沙箱
 - 颜色，不要太突兀
 - 不要太多sheet
+- **现代分析工作流--重点是调动起参与和互动**
+- 
 - 
 - 
 - 
@@ -26,6 +28,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUyNDQxNzcwLC00ODUyNDU1OTAsODcwMD
-E1NTA1LC0yMDU3NDU2NDQ3LDEzNTg2MTY3OTNdfQ==
+eyJoaXN0b3J5IjpbMTQ0ODA0NjgyMiwzNTI0NDE3NzAsLTQ4NT
+I0NTU5MCw4NzAwMTU1MDUsLTIwNTc0NTY0NDcsMTM1ODYxNjc5
+M119
 -->
