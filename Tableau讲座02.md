@@ -10,8 +10,11 @@
 - 管理角色：server管理员，站点管理员，项目管理，三级分层
 - 用户角色：create，explorer有交互，viewer只看
 - 数据管控
+- 两个问题：数据是否提取？数据是否共享？
+- 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTc0NTY0NDcsMTM1ODYxNjc5M119
+eyJoaXN0b3J5IjpbODcwMDE1NTA1LC0yMDU3NDU2NDQ3LDEzNT
+g2MTY3OTNdfQ==
 -->
