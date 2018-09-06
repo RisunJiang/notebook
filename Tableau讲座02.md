@@ -12,10 +12,13 @@
 - 数据管控
 - 两个问题：数据是否提取？数据是否共享？
 - 数据库质量：匹配比例
+- 安全保护与权限
+- 不同用户同一份报表可以看到不同数据
+- 
 - 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODYwMzU2NzcsODcwMDE1NTA1LC0yMD
-U3NDU2NDQ3LDEzNTg2MTY3OTNdfQ==
+eyJoaXN0b3J5IjpbLTg5ODA2MzAxMSw4NzAwMTU1MDUsLTIwNT
+c0NTY0NDcsMTM1ODYxNjc5M119
 -->
