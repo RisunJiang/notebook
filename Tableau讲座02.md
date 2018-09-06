@@ -6,8 +6,9 @@
 - 用Tableau，业务人员可以自己完成报告，所以时间短（一周内完成）
 - 管控框架：数据管控+内容管控
 - 两部分需要精细的管控
+- 站点site -- tableau的权限管控方式
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1ODYxNjc5M119
+eyJoaXN0b3J5IjpbMTU1MjI3NzkyMiwxMzU4NjE2NzkzXX0=
 -->
