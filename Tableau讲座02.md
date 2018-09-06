@@ -15,11 +15,17 @@
 - 安全保护与权限
 - 不同用户同一份报表可以看到不同数据
 - 筛选数据量（如时间）
+- 内容管控
+- 先沙箱
+- 颜色，不要太突兀
+- 不要太多sheet
+- 
+- 
 - 
 - 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NTI0NTU5MCw4NzAwMTU1MDUsLTIwNT
-c0NTY0NDcsMTM1ODYxNjc5M119
+eyJoaXN0b3J5IjpbMzUyNDQxNzcwLC00ODUyNDU1OTAsODcwMD
+E1NTA1LC0yMDU3NDU2NDQ3LDEzNTg2MTY3OTNdfQ==
 -->
