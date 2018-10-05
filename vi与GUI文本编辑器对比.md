@@ -24,10 +24,8 @@
 
 `VI`
 
-GUI文本编辑器
-
-命令
-
+|GUI文本编辑器:|命令:|
+------------------
 快捷键
 
 命令区分大小写
@@ -458,6 +456,6 @@ CTRL v
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2OTA3ODUzNyw2MDk1Mjc4NzMsMTAwNj
+eyJoaXN0b3J5IjpbLTM5NjY3Nzg2MSw2MDk1Mjc4NzMsMTAwNj
 M4NTU2Myw5NjEzMTMwNTZdfQ==
 -->
