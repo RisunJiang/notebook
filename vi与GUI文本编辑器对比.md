@@ -55,19 +55,9 @@
 |`j`|v向下箭头||
 |`k`|^向上箭头||
 |`l`|-->右箭头||
-|`w`|CTRL右箭头
-
-向前走一个字
-
-`b`
-
-CTRL左箭头
-
-向后移动一个单词
-
-`CTRL f`
-
-向下翻页
+|`w`|CTRL->右箭头|向前走一个word|
+|`b`|CTRL<-左箭头|向后移动一个word|
+|`CTRL f`|向下翻页|
 
 `CTRL b`
 
@@ -365,6 +355,6 @@ CTRL v
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjA5Njc0NjgsLTEwNDg0NDY3NTEsNj
-A5NTI3ODczLDEwMDYzODU1NjMsOTYxMzEzMDU2XX0=
+eyJoaXN0b3J5IjpbMTIxODExOTY2NSwtMTA0ODQ0Njc1MSw2MD
+k1Mjc4NzMsMTAwNjM4NTU2Myw5NjEzMTMwNTZdfQ==
 -->
