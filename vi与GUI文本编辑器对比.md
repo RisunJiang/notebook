@@ -61,11 +61,7 @@
 |`CTRL b`|Page Up||
 |`gg`|CTRL Home|文件的开头|
 |`G`|CTRL End|文件结束|
-|``:`_n_` ``
-
-CTRL g（在某些编辑器中）
-
-转到第_n_行
+|`:' *'n'*|CTRL g（在某些编辑器中）|转到第_n_行
 
 **进入插入模式**
 
@@ -341,6 +337,6 @@ CTRL v
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM4NjEwMDE3LC0xMDQ4NDQ2NzUxLDYwOT
+eyJoaXN0b3J5IjpbMzgwNzQ2NTUyLC0xMDQ4NDQ2NzUxLDYwOT
 UyNzg3MywxMDA2Mzg1NTYzLDk2MTMxMzA1Nl19
 -->
