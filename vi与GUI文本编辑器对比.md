@@ -46,13 +46,8 @@
 |`:q!`|ALT F4, '不'保存|退出/关闭而不保存|
 |`:e`|CTRL o|编辑/打开文件|
 |`:w`|CTRL s|写/保存到文件|
-|`:bn`|CTRL TAB|通过开放缓冲区/文档循环前进
-
-`:bp`
-
-CTRL SHIFT选项卡
-
-通过打开缓冲区/文档循环反向
+|`:bn`|CTRL TAB|zheng'xiang循环切换打开的缓冲区或文档|
+|`:bp`|CTRL SHIFT TAB|通过打开缓冲区/文档循环反向
 
 `:bd`
 
@@ -396,6 +391,6 @@ CTRL v
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDg0NDY3NTEsNjA5NTI3ODczLDEwMD
-YzODU1NjMsOTYxMzEzMDU2XX0=
+eyJoaXN0b3J5IjpbOTUwNDQyNDg1LC0xMDQ4NDQ2NzUxLDYwOT
+UyNzg3MywxMDA2Mzg1NTYzLDk2MTMxMzA1Nl19
 -->
