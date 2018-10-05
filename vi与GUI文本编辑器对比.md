@@ -57,25 +57,11 @@
 |`l`|-->右箭头||
 |`w`|CTRL->右箭头|向前走一个word|
 |`b`|CTRL<-左箭头|向后移动一个word|
-|`CTRL f`|向下翻页|
-
-`CTRL b`
-
-Page Up
-
-`gg`
-
-CTRL主页
-
-文件的开头
-
-`G`
-
-CTRL结束
-
-文件结束
-
-``:`_n_` ``
+|`CTRL f`|向下翻页||
+|`CTRL b`|Page Up||
+|`gg`|CTRL Home|文件的开头|
+|`G`|CTRL End|文件结束|
+|``:`_n_` ``
 
 CTRL g（在某些编辑器中）
 
@@ -355,6 +341,6 @@ CTRL v
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxODExOTY2NSwtMTA0ODQ0Njc1MSw2MD
-k1Mjc4NzMsMTAwNjM4NTU2Myw5NjEzMTMwNTZdfQ==
+eyJoaXN0b3J5IjpbNzM4NjEwMDE3LC0xMDQ4NDQ2NzUxLDYwOT
+UyNzg3MywxMDA2Mzg1NTYzLDk2MTMxMzA1Nl19
 -->
