@@ -100,7 +100,7 @@
 # 有用的设置
 
 以下是一些`vi`有助于熟悉它的设置。这些`colon commands`可以在命令模式下应用。
-
+|---
 `:set autochdir`
 
 打开文件，基目录设置为当前缓冲区的位置
@@ -217,6 +217,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzk5NTU4MzIsLTEwNDg0NDY3NTEsNj
-A5NTI3ODczLDEwMDYzODU1NjMsOTYxMzEzMDU2XX0=
+eyJoaXN0b3J5IjpbMjg0NDMwNjE3LC0xMDQ4NDQ2NzUxLDYwOT
+UyNzg3MywxMDA2Mzg1NTYzLDk2MTMxMzA1Nl19
 -->
