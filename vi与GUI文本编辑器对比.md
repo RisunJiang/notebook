@@ -78,16 +78,10 @@
 |`/`|CTRL f||
 |`*`||光标上的字被设置为查找字符串|
 |`n`|F3（在一些编辑中）|查找下一个|
-|`N`|SHIFT F3（在一些编辑中）|cha
-找到上一个
-
-`:noh`
-
-清除最后搜索亮点
-
-**查找和替换**
-
-`:%s/Foo/Bar/gc`
+|`N`|SHIFT F3（在一些编辑中）|查找到上一个|
+|`:noh`||清除最后搜索高亮|
+||**查找和替换**||
+|`:%s/Foo/Bar/gc`
 
 CTRL h（在某些编辑器中）
 
@@ -281,6 +275,6 @@ CTRL v
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzY1NzU5NTIsLTEwNDg0NDY3NTEsNj
-A5NTI3ODczLDEwMDYzODU1NjMsOTYxMzEzMDU2XX0=
+eyJoaXN0b3J5IjpbNTcyMDA0MDMwLC0xMDQ4NDQ2NzUxLDYwOT
+UyNzg3MywxMDA2Mzg1NTYzLDk2MTMxMzA1Nl19
 -->
