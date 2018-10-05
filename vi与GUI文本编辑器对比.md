@@ -66,24 +66,10 @@
 |`i`||在光标前插入|
 |`a`||在光标后插入|
 |`I`|Home|插入行的开头|
-
-`A`
-
-结束
-
-插入行尾
-
-`R`
-
-插
-
-键入时插入并覆盖文本
-
-**删除**
-
-`x`
-
-删除
+|`A`|End|插入行尾|
+|`R`|Insert|键入时插入并覆盖文本|
+||**删除**||
+|`x`|删除
 
 `X`
 
@@ -325,6 +311,6 @@ CTRL v
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE5OTcyOTQ2LC0xMDQ4NDQ2NzUxLDYwOT
+eyJoaXN0b3J5IjpbMjgzNjQzNjg2LC0xMDQ4NDQ2NzUxLDYwOT
 UyNzg3MywxMDA2Mzg1NTYzLDk2MTMxMzA1Nl19
 -->
