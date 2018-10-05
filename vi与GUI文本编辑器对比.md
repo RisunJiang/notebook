@@ -90,27 +90,10 @@
 |`d`|CTRL x|剪切cut|
 |`p`|CTRL v|小写p，粘贴到当前光标位置后|
 |`P`||大写P，粘贴在当前光标位置之前|
-|`"+y`
-
-CTRL c
-
-复制到系统剪贴板
-
-`"+d`
-
-CTRL x
-
-切到系统剪贴板
-
-`"+p`
-
-CTRL v
-
-小写p，从系统剪贴板粘贴当前光标位置后
-
-`"+P`
-
-大写P，从系统剪贴板粘贴到当前光标位置之前
+|`"+y`|CTRL c|复制到系统剪贴板|
+|`"+d`|CTRL x|切到系统剪贴板|
+|`"+p`|CTRL v|小写p，从系统剪贴板粘贴当前光标位置之后|
+|`"+P`||大写P，从系统剪贴板粘贴到当前光标位置之前|
 
 **档案状态**
 
@@ -238,6 +221,6 @@ CTRL v
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MTg3Mjk4OSwtMTA0ODQ0Njc1MSw2MD
-k1Mjc4NzMsMTAwNjM4NTU2Myw5NjEzMTMwNTZdfQ==
+eyJoaXN0b3J5IjpbNjMxMDg1MTEwLC0xMDQ4NDQ2NzUxLDYwOT
+UyNzg3MywxMDA2Mzg1NTYzLDk2MTMxMzA1Nl19
 -->
