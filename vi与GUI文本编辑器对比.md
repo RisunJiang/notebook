@@ -40,7 +40,7 @@
 
 |`VI` 命令|快捷键|详情|
 |:------|:------|:------|
-|`ESC` |    |返回命令模式|
+|**`ESC`** |    |**返回命令模式**|
 ||**文件操作**||
 |`:q`|ALT F4|退出/关闭应用程序|
 |`:q!`|ALT F4, '不'保存|退出/关闭而不保存|
@@ -156,7 +156,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NjEzMzM0NCwtMTU5NzY5NDM1OCwtMT
-A0ODQ0Njc1MSw2MDk1Mjc4NzMsMTAwNjM4NTU2Myw5NjEzMTMw
-NTZdfQ==
+eyJoaXN0b3J5IjpbMTc4MzY0MDY0LC0xNTk3Njk0MzU4LC0xMD
+Q4NDQ2NzUxLDYwOTUyNzg3MywxMDA2Mzg1NTYzLDk2MTMxMzA1
+Nl19
 -->
