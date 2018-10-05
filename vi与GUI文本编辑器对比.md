@@ -71,6 +71,7 @@
 ||**删除**||
 |`x`|Delete||
 |`X`|Backspace||
+|`dd`||删除行|
 ||**撤销重做**||
 |`u`|CTRL z|Undo|
 |`CTRL r`|CTRL y|Redo|
@@ -155,7 +156,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MDQ3NTY4NiwtMTU5NzY5NDM1OCwtMT
+eyJoaXN0b3J5IjpbLTY0NjEzMzM0NCwtMTU5NzY5NDM1OCwtMT
 A0ODQ0Njc1MSw2MDk1Mjc4NzMsMTAwNjM4NTU2Myw5NjEzMTMw
 NTZdfQ==
 -->
