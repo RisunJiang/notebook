@@ -32,13 +32,11 @@
 |按ESC键返回命令模式。**在插入模式下，您必须在执行命令之前按ESC键。**|始终处于插入模式。无需模式切换。快捷方式处于活动状态，可以使用。|
 |**命令在插入模式下不起作用。**|快捷方式在插入模式下处于活动状态。|
 |对于复制/剪切/粘贴，您可以使用本地剪贴板或系统剪贴板。|复制/剪切/粘贴始终使用系统剪贴板|
-|鼠标和滚轮可能无法移动光标。必须使用众多键盘命令之一进行光标移动。
-
-鼠标和滚轮按预期工作。
+|鼠标和滚轮可能无法移动光标。必须使用众多键盘命令之一进行光标移动。|鼠标和滚轮按预期工作。|
 
 # 基本操作
 
-以下是最小的命令集，可以帮助您操作`vi`。它们可能不是最有效的方式，`vi`但会让你摆脱困境。提到了典型文本编辑器中的等效Windows快捷键以进行比较。
+以下是最小的命令集，可以帮助您操作`vi`。它们可能不是最有效的方式，但会让你摆脱困境。提到了典型文本编辑器中的等效Windows快捷键以进行比较。
 
 `VI` 命令
 
@@ -430,6 +428,6 @@ CTRL v
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjI1MDYyMjAsNjA5NTI3ODczLDEwMD
-YzODU1NjMsOTYxMzEzMDU2XX0=
+eyJoaXN0b3J5IjpbMTUyOTA4NjA5MSw2MDk1Mjc4NzMsMTAwNj
+M4NTU2Myw5NjEzMTMwNTZdfQ==
 -->
