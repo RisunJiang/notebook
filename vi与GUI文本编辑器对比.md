@@ -43,25 +43,10 @@
 |`ESC` |    |返回命令模式|
 ||**文件操作**||
 |`:q`|ALT F4|退出/关闭应用程序|
-|`:q!`|ALT F4, '不'保存||退出/关闭而不保存|
-
-`:e`
-
-CTRL o
-
-编辑/打开文件
-
-`:w`
-
-CTRL
-
-写/保存到文件
-
-`:bn`
-
-CTRL TAB
-
-通过开放缓冲区/文档循环前进
+|`:q!`|ALT F4, '不'保存|退出/关闭而不保存|
+|`:e`|CTRL o|编辑/打开文件|
+|`:w`|CTRL s|写/保存到文件|
+|`:bn`|CTRL TAB|通过开放缓冲区/文档循环前进
 
 `:bp`
 
@@ -411,6 +396,6 @@ CTRL v
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExODIyNzMwMiw2MDk1Mjc4NzMsMTAwNj
-M4NTU2Myw5NjEzMTMwNTZdfQ==
+eyJoaXN0b3J5IjpbLTEwNDg0NDY3NTEsNjA5NTI3ODczLDEwMD
+YzODU1NjMsOTYxMzEzMDU2XX0=
 -->
