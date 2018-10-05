@@ -46,18 +46,10 @@
 |`:q!`|ALT F4, '不'保存|退出/关闭而不保存|
 |`:e`|CTRL o|编辑/打开文件|
 |`:w`|CTRL s|写/保存到文件|
-|`:bn`|CTRL TAB|zheng'xiang循环切换打开的缓冲区或文档|
-|`:bp`|CTRL SHIFT TAB|通过打开缓冲区/文档循环反向
-
-`:bd`
-
-CTRL F4
-
-关闭当前缓冲区/文档
-
-`:buffers`
-
-窗口菜单栏项
+|`:bn`|CTRL TAB|正向循环切换打开的缓冲区/文档|
+|`:bp`|CTRL SHIFT TAB|反向循环切换打开的缓冲区/文档|
+|`:bd`|CTRL F4|关闭当前缓冲区/文档|
+|`:buffers`|窗口菜单栏项|
 
 显示所有缓冲区/文档
 
@@ -391,6 +383,6 @@ CTRL v
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUwNDQyNDg1LC0xMDQ4NDQ2NzUxLDYwOT
-UyNzg3MywxMDA2Mzg1NTYzLDk2MTMxMzA1Nl19
+eyJoaXN0b3J5IjpbLTUxMzU3NDkzMCwtMTA0ODQ0Njc1MSw2MD
+k1Mjc4NzMsMTAwNjM4NTU2Myw5NjEzMTMwNTZdfQ==
 -->
