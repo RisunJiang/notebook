@@ -39,10 +39,9 @@
 以下是最小的命令集，可以帮助您操作`vi`。它们可能不是使用`vi`的最有效的方式，但会让你摆脱困境。给出了典型文本编辑器中的等效的Windows快捷键以进行比较。
 
 |`VI` 命令|快捷键|详情|
-|------|------|------|
+|:------|:------|:------|
 |`ESC` |    |返回命令模式|
-
-**文件操作**
+||**文件操作**||
 
 `:q`
 
@@ -422,6 +421,6 @@ CTRL v
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDY4NzczNDQsNjA5NTI3ODczLDEwMD
-YzODU1NjMsOTYxMzEzMDU2XX0=
+eyJoaXN0b3J5IjpbMTg3MTcyOTEyNCw2MDk1Mjc4NzMsMTAwNj
+M4NTU2Myw5NjEzMTMwNTZdfQ==
 -->
