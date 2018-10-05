@@ -49,19 +49,10 @@
 |`:bn`|CTRL TAB|正向循环切换打开的缓冲区/文档|
 |`:bp`|CTRL SHIFT TAB|反向循环切换打开的缓冲区/文档|
 |`:bd`|CTRL F4|关闭当前缓冲区/文档|
-|`:buffers`|窗口菜单栏项|
-
-显示所有缓冲区/文档
-
-**光标移动**
-
-`h`
-
-左箭头
-
-`j`
-
-向下箭头
+|`:buffers`|窗口菜单栏项|显示所有缓冲区/文档|
+||**光标移动**||
+|`h`|<-- 左箭头||
+|`j`|向下箭头
 
 `k`
 
@@ -383,6 +374,6 @@ CTRL v
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMzU3NDkzMCwtMTA0ODQ0Njc1MSw2MD
-k1Mjc4NzMsMTAwNjM4NTU2Myw5NjEzMTMwNTZdfQ==
+eyJoaXN0b3J5IjpbLTEwNjE0NzcxNjIsLTEwNDg0NDY3NTEsNj
+A5NTI3ODczLDEwMDYzODU1NjMsOTYxMzEzMDU2XX0=
 -->
