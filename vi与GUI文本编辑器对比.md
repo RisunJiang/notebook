@@ -36,7 +36,7 @@
 
 # 基本操作
 
-以下是最小的命令集，可以帮助您操作`vi`。它们可能不是最有效的方式，但会让你摆脱困境。提到了典型文本编辑器中的等效Windows快捷键以进行比较。
+以下是最小的命令集，可以帮助您操作`vi`。它们可能不是使用`vi`的最有效的方式，但会让你摆脱困境。给出了典型文本编辑器中的等效Windows快捷键以进行比较。
 
 `VI` 命令
 
@@ -428,6 +428,6 @@ CTRL v
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyOTA4NjA5MSw2MDk1Mjc4NzMsMTAwNj
-M4NTU2Myw5NjEzMTMwNTZdfQ==
+eyJoaXN0b3J5IjpbLTE5NDAxOTQwMzgsNjA5NTI3ODczLDEwMD
+YzODU1NjMsOTYxMzEzMDU2XX0=
 -->
