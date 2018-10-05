@@ -45,7 +45,7 @@
 |`:q`|ALT F4|退出/关闭应用程序|
 |`:q!`|ALT F4, '不'保存|退出/关闭而不保存|
 |`:e`|CTRL o|编辑/打开文件|
-|`:w`|CTRL s|写/保存到文件|
+|`:w`|CTRL s|写/保存文件|
 |`:bn`|CTRL TAB|正向循环切换打开的缓冲区/文档|
 |`:bp`|CTRL SHIFT TAB|反向循环切换打开的缓冲区/文档|
 |`:bd`|CTRL F4|关闭当前缓冲区/文档|
@@ -156,7 +156,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MzY0MDY0LC0xNTk3Njk0MzU4LC0xMD
-Q4NDQ2NzUxLDYwOTUyNzg3MywxMDA2Mzg1NTYzLDk2MTMxMzA1
-Nl19
+eyJoaXN0b3J5IjpbNzc0OTM0Mzg0LDE3ODM2NDA2NCwtMTU5Nz
+Y5NDM1OCwtMTA0ODQ0Njc1MSw2MDk1Mjc4NzMsMTAwNjM4NTU2
+Myw5NjEzMTMwNTZdfQ==
 -->
