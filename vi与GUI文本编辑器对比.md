@@ -18,7 +18,7 @@
 `vi`以两种模式运行，命令模式和插入模式。标准GUI文本编辑器始终处于一种模式，即插入模式。  
 **命令模式**（也称为正常模式） - 按下的所有键都执行命令而不是向文档添​​加文本。请注意，有不同的形式 - 单个键，按顺序的多个键和冒号命令（其中命令以“ `:`”字符为前缀）。  
 **插入模式** - 标准GUI文本编辑器行为。按下的所有键都会在文档中添加文本。  
-通常，左下角表示模式。在插入模式下，`--INSERT--`显示文本“ ”。它在命令模式下为空。
+通常，左下角表示模式。在插入模式下会显示`--INSERT--`。它在命令模式下为空。
 
 下面列出了一些概念上的差异。请注意下面的红色注释。这些通常会让初学者感到沮丧。
 
@@ -458,6 +458,6 @@ CTRL v
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA5NTI3ODczLDEwMDYzODU1NjMsOTYxMz
-EzMDU2XX0=
+eyJoaXN0b3J5IjpbLTI2OTA3ODUzNyw2MDk1Mjc4NzMsMTAwNj
+M4NTU2Myw5NjEzMTMwNTZdfQ==
 -->
