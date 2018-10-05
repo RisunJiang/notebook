@@ -83,23 +83,10 @@
 ||**查找和替换 Find and Replace**||
 |`:%s/Foo/Bar/gc`|CTRL h（在某些编辑器中）|`Foo`是搜索字符串，`Bar`是替换字符串。在`/gc`要求确认之前更换。|
 ||**复制剪切粘贴**||
-|`v`|SHIFT 箭头键|进入可视模式并使用光标移动键h，j，k，l开始标记
-
-`V`
-
-进入可视模式并使用上/下光标移动键j，k开始标记实线
-
-`ggVG`
-
-CTRL a
-
-标记/选择完整缓冲区/文档
-
-`y`
-
-CTRL c
-
-抽出/复印
+|`v`|SHIFT 箭头键|进入可视模式并使用光标移动键h，j，k，l开始标记|
+|`V`||进入可视模式并使用上/下光标移动键j，k开始标记实线|
+|`ggVG`|CTRL a|标记/选择完整缓冲区/文档|
+|`y`|CTRL c|复制
 
 `d`
 
@@ -265,6 +252,6 @@ CTRL v
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc5Mzk0MzAzLC0xMDQ4NDQ2NzUxLDYwOT
-UyNzg3MywxMDA2Mzg1NTYzLDk2MTMxMzA1Nl19
+eyJoaXN0b3J5IjpbLTEwNTYxMTUwMjcsLTEwNDg0NDY3NTEsNj
+A5NTI3ODczLDEwMDYzODU1NjMsOTYxMzEzMDU2XX0=
 -->
