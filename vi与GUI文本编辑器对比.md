@@ -94,12 +94,8 @@
 |`"+d`|CTRL x|切到系统剪贴板|
 |`"+p`|CTRL v|小写p，从系统剪贴板粘贴当前光标位置之后|
 |`"+P`||大写P，从系统剪贴板粘贴到当前光标位置之前|
-
-**档案状态**
-
-```CTRL g ``or  `:f` `` ```
-
-在底部状态行打印当前文件信息
+||**档案状态**||
+|```CTRL g ``or  `:f` `` ```||在底部状态行打印当前文件信息|
 
 # 有用的设置
 
@@ -221,6 +217,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMxMDg1MTEwLC0xMDQ4NDQ2NzUxLDYwOT
-UyNzg3MywxMDA2Mzg1NTYzLDk2MTMxMzA1Nl19
+eyJoaXN0b3J5IjpbLTEwMzk5NTU4MzIsLTEwNDg0NDY3NTEsNj
+A5NTI3ODczLDEwMDYzODU1NjMsOTYxMzEzMDU2XX0=
 -->
