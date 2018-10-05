@@ -86,25 +86,11 @@
 |`v`|SHIFT 箭头键|进入可视模式并使用光标移动键h，j，k，l开始标记|
 |`V`||进入可视模式并使用上/下光标移动键j，k开始标记实线|
 |`ggVG`|CTRL a|标记/选择完整缓冲区/文档|
-|`y`|CTRL c|复制
-
-`d`
-
-CTRL x
-
-删除/剪切
-
-`p`
-
-CTRL v
-
-小写p，粘贴当前光标位置后
-
-`P`
-
-大写P，粘贴在当前光标位置之前
-
-`"+y`
+|`y`|CTRL c|复制copy|
+|`d`|CTRL x|剪切cut|
+|`p`|CTRL v|小写p，粘贴到当前光标位置后|
+|`P`||大写P，粘贴在当前光标位置之前|
+|`"+y`
 
 CTRL c
 
@@ -252,6 +238,6 @@ CTRL v
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTYxMTUwMjcsLTEwNDg0NDY3NTEsNj
-A5NTI3ODczLDEwMDYzODU1NjMsOTYxMzEzMDU2XX0=
+eyJoaXN0b3J5IjpbMTA0MTg3Mjk4OSwtMTA0ODQ0Njc1MSw2MD
+k1Mjc4NzMsMTAwNjM4NTU2Myw5NjEzMTMwNTZdfQ==
 -->
