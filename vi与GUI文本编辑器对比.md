@@ -100,42 +100,17 @@
 # 有用的设置
 
 以下是一些`vi`有助于熟悉它的设置。这些`colon commands`可以在命令模式下应用。
-|---
-`:set autochdir`
-
-打开文件，基目录设置为当前缓冲区的位置
-
-`:set hlsearch`
-
-突出显示搜索期间找到的文本
-
-`:set ignorecase`
-
-在查找期间忽略大小写
-
-`:set incsearch`
-
-增量搜索，在您键入时查找
-
-`:set list`
-
-显示选项卡和行尾等隐藏字符
-
-`:set number`
-
-显示行号
-
-`:set ruler`
-
-显示底部的当前光标位置（行和列）
-
-`:set tabstop=4`
-
-标签移动4个字符
-
-`:set expandtab`
-
-插入空格而不是制表符
+|  |  |
+|---|---|
+|`:set autochdir`|打开文件，基目录设置为当前缓冲区的位置|
+|`:set hlsearch`|突出显示搜索期间找到的文本|
+|`:set ignorecase`|在查找期间忽略大小写|
+|`:set incsearch`|增量搜索，在您键入时查找|
+|`:set list`|显示选项卡和行尾等隐藏字符|
+|`:set number`|显示行号|
+|`:set ruler`|显示底部的当前光标位置（行和列）|
+|`:set tabstop=4`|标签移动4个字符|
+|`:set expandtab`|插入空格而不是制表符|
 
 # 更多操作
 
@@ -217,6 +192,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg0NDMwNjE3LC0xMDQ4NDQ2NzUxLDYwOT
-UyNzg3MywxMDA2Mzg1NTYzLDk2MTMxMzA1Nl19
+eyJoaXN0b3J5IjpbLTE1OTc2OTQzNTgsLTEwNDg0NDY3NTEsNj
+A5NTI3ODczLDEwMDYzODU1NjMsOTYxMzEzMDU2XX0=
 -->
