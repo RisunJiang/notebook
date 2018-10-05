@@ -52,19 +52,10 @@
 |`:buffers`|窗口菜单栏项|显示所有缓冲区/文档|
 ||**光标移动**||
 |`h`|<-- 左箭头||
-|`j`|向下箭头
-
-`k`
-
-向上箭头
-
-`l`
-
-右箭头
-
-`w`
-
-CTRL右箭头
+|`j`|v向下箭头||
+|`k`|^向上箭头||
+|`l`|-->右箭头||
+|`w`|CTRL右箭头
 
 向前走一个字
 
@@ -374,6 +365,6 @@ CTRL v
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjE0NzcxNjIsLTEwNDg0NDY3NTEsNj
+eyJoaXN0b3J5IjpbLTE0MjA5Njc0NjgsLTEwNDg0NDY3NTEsNj
 A5NTI3ODczLDEwMDYzODU1NjMsOTYxMzEzMDU2XX0=
 -->
