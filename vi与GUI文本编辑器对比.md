@@ -28,10 +28,7 @@
 |命令区分大小写|快捷键不区分大小写|
 |缓冲|文件|
 |以命令模式启动|以插入模式开始|
-|按`i`，`a`，`I`，`A`进入插入模式。  
-在将文本添加到文档之前，您必须按其中一个键。
-
-始终处于插入模式，因此您只需键入即可添加文本。
+|按`i`，`a`，`I`，`A`进入插入模式。在将文本添加到文档之前，您必须按其中一个键。|始终处于插入模式，因此您只需键入即可添加文本。|
 
 按ESC键返回命令模式。  
 在插入模式下，您必须在执行命令之前按ESC键。
@@ -444,6 +441,6 @@ CTRL v
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MjQzOTk2LDYwOTUyNzg3MywxMDA2Mz
-g1NTYzLDk2MTMxMzA1Nl19
+eyJoaXN0b3J5IjpbLTE3MDQwNjM1NzIsNjA5NTI3ODczLDEwMD
+YzODU1NjMsOTYxMzEzMDU2XX0=
 -->
