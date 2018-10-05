@@ -42,18 +42,8 @@
 |:------|:------|:------|
 |`ESC` |    |返回命令模式|
 ||**文件操作**||
-
-`:q`
-
-ALT F4
-
-退出/关闭应用程序
-
-`:q!`
-
-ALT F4，'不'保存
-
-退出/关闭而不保存
+|`:q`|ALT F4|退出/关闭应用程序|
+|`:q!`|ALT F4, '不'保存||退出/关闭而不保存|
 
 `:e`
 
@@ -421,6 +411,6 @@ CTRL v
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MTcyOTEyNCw2MDk1Mjc4NzMsMTAwNj
+eyJoaXN0b3J5IjpbMjExODIyNzMwMiw2MDk1Mjc4NzMsMTAwNj
 M4NTU2Myw5NjEzMTMwNTZdfQ==
 -->
