@@ -73,17 +73,10 @@
 |`X`|Backspace||
 ||**撤销重做**||
 |`u`|CTRL z|Undo|
-|`CTRL r`|CTRL y|重做
-
-**找**
-
-`/`
-
-CTRL f
-
-`*`
-
-光标上的字被设置为查找字符串
+|`CTRL r`|CTRL y|Redo|
+||**查找**||
+|`/`|CTRL f||
+|`*`||光标上的字被设置为查找字符串
 
 `n`
 
@@ -297,6 +290,6 @@ CTRL v
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNzEwNzQyNywtMTA0ODQ0Njc1MSw2MD
-k1Mjc4NzMsMTAwNjM4NTU2Myw5NjEzMTMwNTZdfQ==
+eyJoaXN0b3J5IjpbMzEzODI3MzM1LC0xMDQ4NDQ2NzUxLDYwOT
+UyNzg3MywxMDA2Mzg1NTYzLDk2MTMxMzA1Nl19
 -->
