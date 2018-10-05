@@ -115,32 +115,15 @@
 # 更多操作
 
 以下是更多命令`vi`，可以让您深入了解其功能和灵活性。标准文本编辑器中没有真正的等价物。
-
-`.`
-
-重复上一个命令
-
-`$`
-
-移至当前行的末尾
-
-`0`
-
-移动到当前行的开头
-
-`o`
-
-在下面打开一个新行并插入模式
-
-`O`
-
-在上面打开一个新行并插入模式
-
-`r`
-
-覆盖光标下的一个字符
-
-`yy`
+|  |  |
+|--|--|
+|`.`|重复上一个命令|
+|`$`|移至当前行的末尾|
+|`0`|移动到当前行的开头|
+|`o`|在下面打开一个新行并插入模式|
+|`O`|在上面打开一个新行并插入模式|
+|`r`|覆盖光标下的一个字符|
+|`yy`|
 
 复制光标所在的行
 
@@ -192,6 +175,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTc2OTQzNTgsLTEwNDg0NDY3NTEsNj
-A5NTI3ODczLDEwMDYzODU1NjMsOTYxMzEzMDU2XX0=
+eyJoaXN0b3J5IjpbMTI3MDUyNjkwNiwtMTU5NzY5NDM1OCwtMT
+A0ODQ0Njc1MSw2MDk1Mjc4NzMsMTAwNjM4NTU2Myw5NjEzMTMw
+NTZdfQ==
 -->
