@@ -74,17 +74,14 @@
 ||**撤销重做**||
 |`u`|CTRL z|Undo|
 |`CTRL r`|CTRL y|Redo|
-||**查找**||
+||**查找 find**||
 |`/`|CTRL f||
 |`*`||光标上的字被设置为查找字符串|
 |`n`|F3（在一些编辑中）|查找下一个|
 |`N`|SHIFT F3（在一些编辑中）|查找到上一个|
 |`:noh`||清除最后搜索高亮|
-||**查找和替换**||
-|`:%s/Foo/Bar/gc`
-
-CTRL h（在某些编辑器中）
-
+||**查找和替换 Find and Replace**||
+|`:%s/Foo/Bar/gc`|CTRL h（在某些编辑器中）|
 `Foo`是搜索字符串，`Bar`是替换字符串。在`/gc`要求确认之前更换。
 
 **复制剪切粘贴**
@@ -275,6 +272,6 @@ CTRL v
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcyMDA0MDMwLC0xMDQ4NDQ2NzUxLDYwOT
+eyJoaXN0b3J5IjpbMzcxNjQwNDc1LC0xMDQ4NDQ2NzUxLDYwOT
 UyNzg3MywxMDA2Mzg1NTYzLDk2MTMxMzA1Nl19
 -->
