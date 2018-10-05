@@ -4,7 +4,7 @@
 
 ## 通过与Windows编辑器比较来学习
 
-`vi`或者`Vim`（Vi IMproved）是一个功能强大的文本编辑器，起源于UNIX和Linux。它也适用于Windows（[www.vim.org](http://www.vim.org/)）。对于GUI文本编辑器（Word，Notepad，Notepad ++等）的未经授权的用户来说，这可能是一个挑战。有一些概念上的差异会让人感到沮丧。弥合这一差距的一种方法是比较和映射这两种行为。
+`vi`或者`Vim`（Vi IMproved）是一个功能强大的文本编辑器，起源于UNIX和Linux。它也适用于Windows（[www.vim.org](http://www.vim.org/)）。对于习惯GUI文本编辑器（Word，Notepad，Notepad ++等）的缺少经验的用户来说，这可能是一个挑战。有一些概念上的差异会让人感到沮丧。弥合这一差距的一种方法是比较和映射这两种行为。
 
 [概念](https://cognitivewaves.wordpress.com/vi-editor/#concept)  
 [基本操作](https://cognitivewaves.wordpress.com/vi-editor/#basic-operations)  
@@ -458,5 +458,5 @@ CTRL v
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYxMzEzMDU2XX0=
+eyJoaXN0b3J5IjpbMTAwNjM4NTU2Myw5NjEzMTMwNTZdfQ==
 -->
