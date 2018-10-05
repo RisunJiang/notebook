@@ -123,33 +123,13 @@
 |`o`|在下面打开一个新行并插入模式|
 |`O`|在上面打开一个新行并插入模式|
 |`r`|覆盖光标下的一个字符|
-|`yy`|
-
-复制光标所在的行
-
-`yw`
-
-复制一个单词
-
-`dd`
-
-删除光标所在的行
-
-`dw`
-
-删除一个单词
-
-`cw`
-
-改变一个词
-
-`D`
-
-删除光标下的字符，直到行尾
-
-`J`
-
-加入/组合两行
+|`yy`|复制光标所在的行|
+|`yw`|复制一个单词|
+|`dd`|删除光标所在的行|
+|`dw`|删除一个单词|
+|`cw`|改变一个词|
+|`D`|删除光标下的字符，直到行尾|
+|`J`|加入/组合两行|
 
 # 技巧和窍门
 
@@ -175,7 +155,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MDUyNjkwNiwtMTU5NzY5NDM1OCwtMT
+eyJoaXN0b3J5IjpbMTE0MDQ3NTY4NiwtMTU5NzY5NDM1OCwtMT
 A0ODQ0Njc1MSw2MDk1Mjc4NzMsMTAwNjM4NTU2Myw5NjEzMTMw
 NTZdfQ==
 -->
