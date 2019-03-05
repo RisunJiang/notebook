@@ -15,7 +15,7 @@
 -   解压缩下载的zip文件。它将建出一个名为**appinventordb**的文件夹。您可以根据需要重命名。
 -   在**GoogleAppEngineLauncher** (Launcher: 发射台) 中，选择**File | Add Existing Application** 浏览以设置您刚刚解压缩的 **appinventordb** 文件夹的路径。然后单击 **Run** 按钮。这样将启动在本地计算机上运行的测试Web服务。
 -   您可以通过打开浏览器并输入“__localhost:8080__” 作为URL来测试服务。您将看到Web服务的网页界面。此服务的最终目标是与采用App Inventor创建的移动应用程序进行通信。但是该服务同时也提供了一个网页界面，以帮助程序员进行调试。您可以手动调用get和store操作，查看现有条目，还可以删除单个条目。
--   您的应用尚未在网络上，因此App Inventor应用尚无法访问。要实现这一目标，您需要将其上传到Google的App Engine servers 上。
+-   您的应用尚未在网络上，因此App Inventor应用尚无法访问。要实现这一目标，您需要将其 **上传** 到Google的 **App Engine servers** 上。
 -   在GoogleAppEngineLauncher中，选择信息中心。输入您的Google帐户信息，您将进入App Engine信息中心。
 -   选择创建应用程序。您需要指定全局唯一的应用程序标识符。记住应用程序标识符，稍后您将需要它。为您的应用程序提供名称，然后单击“创建应用程序”以进 如果您的标识符是唯一的，那么您现在在Google服务器上有一个新的空白应用。
 -   在本地计算机上打开文本编辑器，然后在解压缩的appinventordb文件夹中打开app.yaml文件。修改第一行，以便应用程序与您在Google上设置的应用程序标识符匹配。
@@ -37,7 +37,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODU1MDExNzMsNDMxNjI4ODc5LC0xOT
+eyJoaXN0b3J5IjpbLTE0NTA4MTAyMDUsNDMxNjI4ODc5LC0xOT
 g2MjIyNzMwLDE5NTc5NDU0NTUsMTc5OTMzMTg4OSw3MzA5OTgx
 MTZdfQ==
 -->
