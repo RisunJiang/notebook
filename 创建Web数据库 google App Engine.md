@@ -11,7 +11,7 @@
 要创建自己的Web服务，请按照以下说明操作：
 
 -   从[http://code.google.com/appengine/](http://code.google.com/appengine/)下载App Engine for Python 。确保并下载适用于Python的**App Engine SDK**。安装后，单击其图标运行 _GoogleAppEngineLauncher_。
--   下载此[示例Web数据库代码](http://sites.google.com/site/appinventor/sample-tinywebdb-services/appinventordb.zip?attredirects=0&d=1)。它是一个zip文件，包含自定义Web数据库服务的源代码。
+-   下载 [sample web database code](http://sites.google.com/site/appinventor/sample-tinywebdb-services/appinventordb.zip?attredirects=0&d=1)。它是一个zip文件，包含自定义Web数据库服务的源代码。
 -   解压缩下载的zip文件。它将创建一个名为appinventordb的文件夹。您可以根据需要重命名。
 -   在GoogleAppEngineLauncher中，选择“文件”| 添加现有应用程序 浏览以设置您刚刚解压缩的appinventordb文件夹的路径。然后单击“运行”按钮。这将启动在本地计算机上运行的测试Web服务。
 -   您可以通过打开浏览器并输入“localhost：8080”作为URL来测试服务。您将看到Web服务的网页界面。此服务的最终目标是与使用App Inventor创建的移动应用程序进行通信。但是该服务为服务提供了一个网页界面，以帮助程序员进行调试。您可以手动调用get和store操作，查看现有条目，还可以删除单个条目
@@ -37,6 +37,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkzMDc2OTM1LDE3OTkzMzE4ODksNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbLTk4NzE0ODY2MSwxNzk5MzMxODg5LDczMD
+k5ODExNl19
 -->
