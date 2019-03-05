@@ -24,7 +24,7 @@
 
 **App Inventor客户端应用程序**
 
-拥有“符合App-Inventor标准”的Web数据库后，您可以创建访问它的App Inventor应用程序。对于刚刚创建的示例，请执行以下操作：
+拥有“App-Inventor-compliant” (App-Inventor兼容) 的Web数据库后，您可以创建访问它的 App Inventor应用程序。对于刚刚创建的示例，请执行以下操作：
 
 -   将TinyWebDB组件拖入组件设计器。
 -   将ServiceURL属性从默认的[http://appinvtinywebdb.appspot.com/](http://appinvtinywebdb.appspot.com/)修改为您的服务的URL。
@@ -37,7 +37,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjI5Nzk1MTMsNDMxNjI4ODc5LC0xOT
-g2MjIyNzMwLDE5NTc5NDU0NTUsMTc5OTMzMTg4OSw3MzA5OTgx
-MTZdfQ==
+eyJoaXN0b3J5IjpbMTc1NzE2Njg3MSw0MzE2Mjg4NzksLTE5OD
+YyMjI3MzAsMTk1Nzk0NTQ1NSwxNzk5MzMxODg5LDczMDk5ODEx
+Nl19
 -->
