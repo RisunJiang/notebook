@@ -1,6 +1,6 @@
 ## [创建Web数据库](https://appinventorapi.com/program-an-api-python/ "创建Web数据库")
 
-**TinyWebDB** 是一个**App Inventor**组件，它使您的Android应用程序能访问Web。您可以使用TinyWebDB访问Web数据源（data source API）或将应用程序的数据持久存储在Web数据库中。这里向您展示如何实现后者 - **设置Web数据库**，并使用**Google**的免费[App Engine service](https://en.wikipedia.org/wiki/Google_App_Engine)服务在云中进行设置。使用此处提供的示例代码，您可以在几分钟内设置一个位于Google服务器上的Web数据库，您无需成为程序员即可。
+**TinyWebDB** 是一个**App Inventor**组件，它使您的Android应用程序能访问Web。您可以使用TinyWebDB访问Web数据源（data source API）或将应用程序的数据持久存储在Web数据库中。这里向您展示如何实现后者 - **设置Web数据库**，并使用**Google**的免费[App Engine service](https://en.wikipedia.org/wiki/Google_App_Engine) 服务在云中进行设置。使用此处提供的示例代码，您可以在几分钟内设置一个位于Google服务器上的Web数据库，您无需成为程序员即可。
 
 请注意，App Inventor还提供了TinyDB组件。TinyDB直接在手机上存储数据，使用起来更简单。只有在手机和应用程序之间需要共享数据时才需要TinyWebDB（例如，社交应用程序，多人游戏）。
 
@@ -37,6 +37,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTk2NTAyMjAsMTc5OTMzMTg4OSw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTQ1MTg4ODg1NiwxNzk5MzMxODg5LDczMD
+k5ODExNl19
 -->
