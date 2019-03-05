@@ -4,9 +4,9 @@
 
 请注意，App Inventor还提供了TinyDB组件。TinyDB是直接在手机上存储数据，使用起来更简单。只有在手机和应用程序之间需要共享数据时才需要TinyWebDB（例如，社交应用程序，多人游戏）。
 
-默认情况下，TinyWebDB组件将数据存储在App Inventor提供的测试服务上，http://appinvtinywebdb.appspot.com/](//appinvtinywebdb.appspot.com/) 。此服务有助于测试，但它由所有App Inventor用户共享，并且限制为1000个条目。如果您使用它，您的数据最终将被覆盖。
+默认情况下，TinyWebDB组件将数据存储在App Inventor提供的测试服务上，[http://appinvtinywebdb.appspot.com/](//appinvtinywebdb.appspot.com/) 。此服务有助于测试，但它由所有App Inventor用户共享，并且限制为1000个条目。如果您使用它，您的数据最终将被覆盖。
 
-对于除测试之外的任何其他内容，您将需要创建不与其他App Inventor应用程序和程序员共享的自定义Web服务。您无需成为程序员也可以这样做 - 只需按照以下说明操作，您就可以在几分钟内获得自己的服务。
+对于除测试之外的任何其他内容，您将需要创建不与其App Inventor应用程序和程序员共享的自定义Web服务。您无需成为程序员也可以这样做 - 只需按照以下说明操作，您就可以在几分钟内获得自己的服务。
 
 要创建自己的Web服务，请按照以下说明操作：
 
@@ -37,6 +37,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE3ODMzMDAsMTc5OTMzMTg4OSw3MzA5OT
-gxMTZdfQ==
+eyJoaXN0b3J5IjpbLTIwNTc4Njk5MDEsMTc5OTMzMTg4OSw3Mz
+A5OTgxMTZdfQ==
 -->
