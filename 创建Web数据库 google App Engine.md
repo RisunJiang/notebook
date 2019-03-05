@@ -20,7 +20,7 @@
 -   选择 **Create an Application** 创建应用程序。您需要指定全局唯一的**Application Identifer** (应用程序标识符)。记住Application Identifer，稍后您将需要它。为您的应用程序提供名称，然后单击 **Create Application to submit**(提交创建应用程序） 如果您的标识符是唯一的，那么您现在在Google服务器上有一个新的空白应用。
 -   在本地计算机上打开文本编辑器，然后在解压缩的 appinventordb 文件夹中打开 __app.yaml__ 文件。修改第一行，以便应用程序与您在Google上设置的应用**Application Identifer** 匹配。
 -   在GoogleAppEngineLauncher中，选择 **Deploy**(部署)，然后按照部署应用程序的步骤操作。
--   测试您的应用是否在网络上运行。在浏览器中输入 **_myapp_.appspot.com**，仅将您的应用程序标识替换为“myapp”。该应用程序应与在本地测试服务器上运行时的外观相同。只有现在，它才能上网，您可以从App Inventor for Android应用程序访问它。
+-   测试您的应用是否在网络上运行。在浏览器中输入 **_myapp_.appspot.com**，仅将您的Application Identifer 替换为“myapp”。该应用程序应与在本地测试服务器上运行时的外观相同。只有现在，它才能上网，您可以从App Inventor for Android应用程序访问它。
 
 **App Inventor客户端应用程序**
 
@@ -37,7 +37,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc0Mjk0MzM5LDQzMTYyODg3OSwtMTk4Nj
-IyMjczMCwxOTU3OTQ1NDU1LDE3OTkzMzE4ODksNzMwOTk4MTE2
-XX0=
+eyJoaXN0b3J5IjpbMTMzMjUzODk3OCw0MzE2Mjg4NzksLTE5OD
+YyMjI3MzAsMTk1Nzk0NTQ1NSwxNzk5MzMxODg5LDczMDk5ODEx
+Nl19
 -->
