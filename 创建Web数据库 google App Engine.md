@@ -17,7 +17,7 @@
 -   您可以通过打开浏览器并输入“__localhost:8080__” 作为URL来测试服务。您将看到Web服务的网页界面。此服务的最终目标是与采用App Inventor创建的移动应用程序进行通信。但是该服务同时也提供了一个网页界面，以帮助程序员进行调试。您可以手动调用get和store操作，查看现有条目，还可以删除单个条目。
 -   您的应用尚未在网络上，因此App Inventor应用尚无法访问。要实现这一目标，您需要将其 **上传** 到Google的 **App Engine servers** 上。
 -   在 **GoogleAppEngineLauncher** 中，选择 **Dashboard**。输入您的 **Google帐户** 信息，您将进入**App Engine dashboard**。
--   选择 **Create an Application** 创建应用程序。您需要指定全局唯一的**Application Identifer** (应用程序标识符)。记住Application Identifer，稍后您将需要它。为您的应用程序提供名称，然后单击 **Create Application to submit**(创建应用程序并提交） 如果您的标识符是唯一的，那么您现在在Google服务器上有一个新的空白应用。
+-   选择 **Create an Application** 创建应用程序。您需要指定全局唯一的**Application Identifer** (应用程序标识符)。记住Application Identifer，稍后您将需要它。为您的应用程序提供名称，然后单击 **Create Application to submit**(提交创建应用程序） 如果您的标识符是唯一的，那么您现在在Google服务器上有一个新的空白应用。
 -   在本地计算机上打开文本编辑器，然后在解压缩的appinventordb文件夹中打开app.yaml文件。修改第一行，以便应用程序与您在Google上设置的应用程序标识符匹配。
 -   在GoogleAppEngineLauncher中，选择“部署”，然后按照部署应用程序的步骤操作。
 -   测试您的应用是否在网络上运行。在浏览器中输入myapp.appspot.com，仅将您的应用程序标识替换为“myapp”。该应用程序应与在本地测试服务器上运行时的外观相同。只有现在，它才能上网，您可以从App Inventor for Android应用程序访问它。
@@ -37,7 +37,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5OTI0Mzg5NSw0MzE2Mjg4NzksLTE5OD
+eyJoaXN0b3J5IjpbMTIzMTUyODc4MSw0MzE2Mjg4NzksLTE5OD
 YyMjI3MzAsMTk1Nzk0NTQ1NSwxNzk5MzMxODg5LDczMDk5ODEx
 Nl19
 -->
