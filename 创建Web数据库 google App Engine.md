@@ -30,14 +30,14 @@
 -   将ServiceURL属性从默认的[http://appinvtinywebdb.appspot.com/](http://appinvtinywebdb.appspot.com/)修改为您的服务的URL。
 -   所以 **StoreValue** 的操作（块）都将在您的服务中存储数据，任何 **GetValue**操作都将从您的服务中提取数据。
 
-以下是一些存储和提数据的块：
+以下是一些存储和提取数据的块：
 
 [![](https://appinventormash.files.wordpress.com/2010/07/appinventordbclient.png?w=468&h=316 "appinventordbClient")](https://appinventormash.files.wordpress.com/2010/07/appinventordbclient.png)
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNjQzMTgyMyw0MzE2Mjg4NzksLTE5OD
+eyJoaXN0b3J5IjpbLTI3NTg4NzM2OSw0MzE2Mjg4NzksLTE5OD
 YyMjI3MzAsMTk1Nzk0NTQ1NSwxNzk5MzMxODg5LDczMDk5ODEx
 Nl19
 -->
