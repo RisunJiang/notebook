@@ -24,11 +24,11 @@
 
 **App Inventor客户端应用程序**
 
-拥有“App-Inventor-compliant” (App-Inventor兼容) 的Web数据库后，您可以创建访问它的 App Inventor应用程序。对于刚刚创建的示例，请执行以下操作：
+拥有“App-Inventor-compliant” (App-Inventor兼容) 的Web数据库后，您就可以创建访问它的 App Inventor应用程序了。对于刚刚创建的示例，请执行以下操作：
 
 -   将TinyWebDB组件拖入组件设计器。
 -   将ServiceURL属性从默认的[http://appinvtinywebdb.appspot.com/](http://appinvtinywebdb.appspot.com/)修改为您的服务的URL。
--   任何StoreValue操作（块）都将在您的服务中存储数据，任何GetValue操作都将从您的服务中检索。
+-   Any StoreValue操作（块）都将在您的服务中存储数据，任何GetValue操作都将从您的服务中检索。
 
 以下是一些存储和检索数据的块：
 
@@ -37,7 +37,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NzE2Njg3MSw0MzE2Mjg4NzksLTE5OD
+eyJoaXN0b3J5IjpbLTI1NjE5MTc2Niw0MzE2Mjg4NzksLTE5OD
 YyMjI3MzAsMTk1Nzk0NTQ1NSwxNzk5MzMxODg5LDczMDk5ODEx
 Nl19
 -->
