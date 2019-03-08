@@ -2,7 +2,7 @@
 
 # 喏，你们要的 PyCharm 快速上手指南
 [原文](https://zhuanlan.zhihu.com/p/26066151)
-
+[]
 [![Crossin](https://pic3.zhimg.com/85b47091c_xs.jpg)](https://www.zhihu.com/people/crossin)
 
 [Crossin](https://www.zhihu.com/people/crossin)
@@ -176,5 +176,5 @@ print('hello,world')
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjIzNTQ1MzldfQ==
+eyJoaXN0b3J5IjpbODQzNTY1MTcxLC0xNzYyMzU0NTM5XX0=
 -->
