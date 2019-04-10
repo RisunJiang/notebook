@@ -269,9 +269,10 @@
 >- Top N fail 只要探针号, 不需要Net Name;
 >- 如果针号是GND, 则不显示; Power点保留;
 >- 针号最好小的在前面, 看上去一眼能看出相似性;
+-----
 * 联系人: liu.wei-bin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMjk3ODg1MV19
+eyJoaXN0b3J5IjpbLTQ3MTU1MzQyLDE5MjI5Nzg4NTFdfQ==
 -->
