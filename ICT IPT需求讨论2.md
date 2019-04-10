@@ -259,7 +259,7 @@
 
 ****
 ### net和探针文件
-六厂范华琳希望在Top N fail 的显示中, 除了Location, 还要Net和探针.
+- 六厂范华琳希望在Top N fail 的显示中, 除了Location, 还要Net和探针.
 * 首先需要确定Net和探针, User直接使用的定义文件. 下表列出User对于 3种不同设备 -- 3070, TRI, I000, 分别使用的标志文件:
 
 | 设备类型 | Net标志文件 | Net标志栏位| 探针标志文件 | 探针标志栏位|
@@ -276,5 +276,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NzUzMDEzNCwxOTIyOTc4ODUxXX0=
+eyJoaXN0b3J5IjpbLTE4MjA0Nzk3MDMsMTkyMjk3ODg1MV19
 -->
